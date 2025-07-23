@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-07-23 21:42:38 +0000",
       "minecraft:snowy_plains": "2025-07-23 02:01:15 +0000",
       "minecraft:stony_shore": "2025-07-23 04:58:12 +0000",
       "minecraft:cold_ocean": "2025-07-23 02:34:27 +0000",
@@ -3172,15 +3173,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-23 21:39:52 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/gysahl_cake": {
+    "criteria": {
+      "has_gysahl_green": "2025-07-23 21:37:40 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/red_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-07-23 21:37:40 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocopedia": {
+    "criteria": {
+      "has_gysahl_green": "2025-07-23 21:37:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-07-23 21:39:52 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/pink_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-07-23 21:37:40 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/upgrade_template": {
     "criteria": {
       "has_chest": "2025-07-23 21:30:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-23 21:39:52 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/pickled_gysahl_raw": {
+    "criteria": {
+      "has_gysahl_green": "2025-07-23 21:37:40 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/detached_drawer": {
     "criteria": {
       "has_chest": "2025-07-23 21:30:57 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/gysahl_green_to_seeds": {
+    "criteria": {
+      "has_gysahl_green": "2025-07-23 21:37:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-07-23 21:39:52 +0000"
     },
     "done": true
   },
