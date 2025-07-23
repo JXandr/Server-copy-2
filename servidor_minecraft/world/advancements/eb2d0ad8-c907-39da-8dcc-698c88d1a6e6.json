@@ -2808,6 +2808,7 @@
     "criteria": {
       "onion": "2025-07-23 20:23:51 +0000",
       "tomato": "2025-07-23 20:24:00 +0000",
+      "potato": "2025-07-23 21:50:38 +0000",
       "wheat": "2025-07-23 04:52:03 +0000",
       "carrot": "2025-07-23 20:23:47 +0000"
     },
@@ -3164,6 +3165,12 @@
   "iammusicplayer:recipes/misc/music_manager": {
     "criteria": {
       "has_diamond": "2025-07-23 21:32:07 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-07-23 21:54:22 +0000"
     },
     "done": true
   },
