@@ -789,6 +789,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-07-23 23:30:45 +0000",
       "cooked_beef": "2025-07-23 04:26:58 +0000",
       "apple": "2025-07-23 02:11:32 +0000",
       "bread": "2025-07-23 02:36:04 +0000",
@@ -3190,6 +3191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-23 23:35:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/axes/axe_axe": {
     "criteria": {
       "has_iron_axe": "2025-07-23 21:54:22 +0000"
@@ -3358,6 +3365,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_feather": "2025-07-23 23:35:37 +0000"
+    },
+    "done": true
+  },
   "creategoggles:recipes/nbtcrafting/goggle_diamond_helmet": {
     "criteria": {
       "has_helmet": "2025-07-23 22:16:29 +0000"
@@ -3367,6 +3380,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-23 23:09:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-07-23 23:35:37 +0000"
     },
     "done": true
   },
@@ -3463,6 +3482,18 @@
   "travelersbackpack:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-07-23 23:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-23 23:35:38 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_poisonous_potato": "2025-07-23 23:27:18 +0000"
     },
     "done": true
   },
@@ -3580,6 +3611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-23 23:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-23 22:46:09 +0000"
@@ -3628,6 +3665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-23 23:35:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2025-07-23 22:52:38 +0000"
@@ -3643,6 +3686,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-07-23 22:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-23 23:35:39 +0000"
     },
     "done": true
   },
@@ -3847,6 +3896,12 @@
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-07-23 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-23 23:34:36 +0000"
     },
     "done": true
   },
