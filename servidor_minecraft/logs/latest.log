@@ -1170,3 +1170,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [23Jul2025 00:41:41.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mixelanea joined the game
 [23Jul2025 00:41:41.963] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d9037dc8-5de2-3afa-8253-8f4279844af2
 [23Jul2025 00:41:41.964] [Server thread/INFO] [Jade/]: Syncing config to Mixelanea (d9037dc8-5de2-3afa-8253-8f4279844af2)
+[23Jul2025 00:48:12.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mixelanea was slain by Beast Patient
+[23Jul2025 01:02:59.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mixelanea lost connection: Timed out
+[23Jul2025 01:02:59.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mixelanea left the game
+[23Jul2025 01:02:59.009] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d9037dc8-5de2-3afa-8253-8f4279844af2
+[23Jul2025 01:02:59.062] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
