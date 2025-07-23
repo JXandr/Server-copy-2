@@ -9,11 +9,15 @@
     "criteria": {
       "minecraft:frozen_river": "2025-07-23 02:49:02 +0000",
       "minecraft:cherry_grove": "2025-07-23 02:58:51 +0000",
+      "minecraft:birch_forest": "2025-07-23 03:33:39 +0000",
+      "minecraft:beach": "2025-07-23 03:33:56 +0000",
       "minecraft:river": "2025-07-23 03:09:51 +0000",
       "minecraft:snowy_plains": "2025-07-23 02:09:28 +0000",
       "minecraft:snowy_taiga": "2025-07-23 02:49:54 +0000",
+      "minecraft:grove": "2025-07-23 03:35:54 +0000",
       "minecraft:cold_ocean": "2025-07-23 02:35:27 +0000",
       "minecraft:forest": "2025-07-23 02:09:59 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-23 03:35:37 +0000",
       "minecraft:meadow": "2025-07-23 03:10:37 +0000",
       "minecraft:plains": "2025-07-23 02:32:46 +0000"
     },

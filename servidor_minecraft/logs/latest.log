@@ -2283,3 +2283,79 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [03:31:13] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/87104, l='ServerLevel[world]', x=-974.50, y=22.00, z=81.50] as it would cause deadlock
 [03:31:13] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1549['Cave Spider'/87106, l='ServerLevel[world]', x=-966.50, y=22.00, z=81.50] as it would cause deadlock
 [03:31:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:31:34] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1549['Cave Spider'/87553, l='ServerLevel[world]', x=-959.50, y=-53.00, z=61.50] as it would cause deadlock
+[03:31:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4931ms or 98 ticks behind
+[03:31:41] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/87687, l='ServerLevel[world]', x=-986.50, y=22.00, z=16.50] as it would cause deadlock
+[03:31:43] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/87709, l='ServerLevel[world]', x=-869.50, y=-53.00, z=44.50] as it would cause deadlock
+[03:31:43] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/87712, l='ServerLevel[world]', x=-994.50, y=22.00, z=16.50] as it would cause deadlock
+[03:31:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2321ms or 46 ticks behind
+[03:31:59] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/87959, l='ServerLevel[world]', x=-881.50, y=-56.00, z=2.50] as it would cause deadlock
+[03:32:00] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/87973, l='ServerLevel[world]', x=-966.50, y=-3.00, z=8.50] as it would cause deadlock
+[03:32:00] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/87981, l='ServerLevel[world]', x=-997.50, y=-53.00, z=5.50] as it would cause deadlock
+[03:32:00] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/88005, l='ServerLevel[world]', x=-986.50, y=22.00, z=16.50] as it would cause deadlock
+[03:32:01] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/88010, l='ServerLevel[world]', x=-994.50, y=22.00, z=16.50] as it would cause deadlock
+[03:32:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:32:27] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/88594, l='ServerLevel[world]', x=-966.50, y=-3.00, z=8.50] as it would cause deadlock
+[03:32:28] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/88600, l='ServerLevel[world]', x=-997.50, y=-53.00, z=5.50] as it would cause deadlock
+[03:32:29] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/88648, l='ServerLevel[world]', x=-881.50, y=-56.00, z=2.50] as it would cause deadlock
+[03:32:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[03:32:32] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/88705, l='ServerLevel[world]', x=-1051.50, y=22.00, z=-29.50] as it would cause deadlock
+[03:32:32] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/88707, l='ServerLevel[world]', x=-1043.50, y=22.00, z=-29.50] as it would cause deadlock
+[03:32:36] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1549['Cave Spider'/88784, l='ServerLevel[world]', x=-945.50, y=16.00, z=-42.50] as it would cause deadlock
+[03:32:36] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1549['Cave Spider'/88788, l='ServerLevel[world]', x=-981.50, y=22.00, z=-37.50] as it would cause deadlock
+[03:32:37] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/88801, l='ServerLevel[world]', x=-1051.50, y=22.00, z=-29.50] as it would cause deadlock
+[03:32:37] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/88803, l='ServerLevel[world]', x=-1043.50, y=22.00, z=-29.50] as it would cause deadlock
+[03:32:41] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1549['Cave Spider'/88873, l='ServerLevel[world]', x=-949.50, y=19.00, z=-58.50] as it would cause deadlock
+[03:32:41] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/88898, l='ServerLevel[world]', x=-1007.50, y=22.00, z=-54.50] as it would cause deadlock
+[03:32:42] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1549['Cave Spider'/88923, l='ServerLevel[world]', x=-945.50, y=16.00, z=-42.50] as it would cause deadlock
+[03:32:42] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1549['Cave Spider'/88926, l='ServerLevel[world]', x=-981.50, y=22.00, z=-37.50] as it would cause deadlock
+[03:32:46] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1549['Cave Spider'/89035, l='ServerLevel[world]', x=-949.50, y=19.00, z=-58.50] as it would cause deadlock
+[03:32:46] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/89043, l='ServerLevel[world]', x=-1007.50, y=22.00, z=-54.50] as it would cause deadlock
+[03:32:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[03:33:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2714ms or 54 ticks behind
+[03:33:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[03:33:30] [Server thread/INFO]: [STDOUT]: []
+[03:33:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[03:34:20] [Server thread/INFO]: [STDOUT]: []
+[03:34:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[03:34:32] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/91466, l='ServerLevel[world]', x=-1240.50, y=-53.00, z=-211.50] as it would cause deadlock
+[03:34:33] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/91479, l='ServerLevel[world]', x=-1240.50, y=-53.00, z=-203.50] as it would cause deadlock
+[03:34:33] [Worker-Main-2/INFO]: [STDOUT]: []
+[03:34:33] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/91482, l='ServerLevel[world]', x=-1266.50, y=-53.00, z=-207.50] as it would cause deadlock
+[03:34:33] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/91486, l='ServerLevel[world]', x=-1240.50, y=-53.00, z=-211.50] as it would cause deadlock
+[03:34:37] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/91519, l='ServerLevel[world]', x=-1240.50, y=-53.00, z=-203.50] as it would cause deadlock
+[03:34:40] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/91543, l='ServerLevel[world]', x=-1266.50, y=-53.00, z=-207.50] as it would cause deadlock
+[03:34:43] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/91578, l='ServerLevel[world]', x=-1240.50, y=-53.00, z=-165.50] as it would cause deadlock
+[03:34:43] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/91580, l='ServerLevel[world]', x=-1240.50, y=-53.00, z=-173.50] as it would cause deadlock
+[03:34:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[03:34:51] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1428['Chicken'/91759, l='ServerLevel[world]', x=-1312.50, y=-3.00, z=-244.50] as it would cause deadlock
+[03:34:54] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/91834, l='ServerLevel[world]', x=-1240.50, y=-53.00, z=-165.50] as it would cause deadlock
+[03:34:54] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/91836, l='ServerLevel[world]', x=-1240.50, y=-53.00, z=-173.50] as it would cause deadlock
+[03:34:58] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1549['Cave Spider'/91940, l='ServerLevel[world]', x=-1330.50, y=22.00, z=-247.50] as it would cause deadlock
+[03:34:58] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/91942, l='ServerLevel[world]', x=-1342.50, y=22.00, z=-247.50] as it would cause deadlock
+[03:34:59] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1428['Chicken'/91955, l='ServerLevel[world]', x=-1312.50, y=-3.00, z=-244.50] as it would cause deadlock
+[03:35:03] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1549['Cave Spider'/92077, l='ServerLevel[world]', x=-1330.50, y=22.00, z=-247.50] as it would cause deadlock
+[03:35:03] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/92079, l='ServerLevel[world]', x=-1342.50, y=22.00, z=-247.50] as it would cause deadlock
+[03:35:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3384ms or 67 ticks behind
+[03:35:08] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/92216, l='ServerLevel[world]', x=-1370.50, y=22.00, z=-286.50] as it would cause deadlock
+[03:35:22] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/92488, l='ServerLevel[world]', x=-1370.50, y=22.00, z=-286.50] as it would cause deadlock
+[03:35:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[03:35:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[03:36:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03:36:20] [Server thread/INFO]: [STDOUT]: []
+[03:36:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[03:36:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4109ms or 82 ticks behind
+[03:37:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[03:37:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
+[03:38:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[03:38:33] [Server thread/INFO]: Darkcalvito has made the advancement [Underwater Expeditions]
+[03:38:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[03:39:01] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1837, y=-33, z=-63}
+[03:39:06] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1841, y=-33, z=-63}
+[03:39:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[03:39:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[03:40:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[03:40:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
+[03:40:19] [Server thread/INFO]: Villager class_1646['Nitwit'/95493, l='ServerLevel[world]', x=-528.34, y=68.00, z=274.35] died, message: 'Nitwit was slain by Sword Zombie'
+[03:40:35] [Server thread/INFO]: Darkcalvito has made the advancement [Born Just In Time...]
+[03:40:55] [Server thread/INFO]: Mixelanea was slain by Brute Zombie

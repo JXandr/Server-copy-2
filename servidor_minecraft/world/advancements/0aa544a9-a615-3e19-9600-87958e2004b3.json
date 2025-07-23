@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 03:33:25 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_slicer": {
     "criteria": {
       "has_string": "2025-07-23 03:23:39 +0000"
@@ -122,6 +128,12 @@
   "mcdw:recipes/daggers/dagger_void_touched_blade": {
     "criteria": {
       "has_obsidian": "2025-07-23 03:12:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-07-23 03:33:25 +0000"
     },
     "done": true
   },
@@ -260,6 +272,12 @@
   "mcdw:recipes/bows/bow_trickbow": {
     "criteria": {
       "has_string": "2025-07-23 03:23:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-07-23 03:33:54 +0000"
     },
     "done": true
   },
@@ -416,6 +434,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-23 03:21:47 +0000",
+      "minecraft:creeper": "2025-07-23 03:33:53 +0000",
+      "minecraft:witch": "2025-07-23 03:35:28 +0000",
       "minecraft:zombie": "2025-07-23 03:21:39 +0000"
     },
     "done": false
@@ -630,6 +650,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-23 03:31:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-07-23 03:11:37 +0000"
@@ -813,6 +839,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-07-23 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/explosive_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-07-23 03:33:54 +0000"
     },
     "done": true
   },
@@ -1260,6 +1292,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-07-23 03:33:25 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/staves/staff_growing_staff": {
     "criteria": {
       "has_gold_nugget": "2025-07-23 03:12:50 +0000"
@@ -1275,6 +1313,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-07-23 03:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-23 03:35:28 +0000"
     },
     "done": true
   },
@@ -1378,11 +1422,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-23 03:33:54 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_power_bow": {
     "criteria": {
       "has_string": "2025-07-23 03:23:39 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2025-07-23 03:33:29 +0000",
+      "beetroot": "2025-07-23 03:31:22 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
@@ -1393,6 +1450,12 @@
   "vc_gliders:recipes/misc/nether_upgrade": {
     "criteria": {
       "has_crafting_table": "2025-07-23 03:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-23 03:33:54 +0000"
     },
     "done": true
   },
@@ -1423,6 +1486,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-07-23 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-23 03:35:28 +0000"
     },
     "done": true
   },
