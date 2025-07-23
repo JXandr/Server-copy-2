@@ -2762,12 +2762,6 @@
     },
     "done": true
   },
-  "mythicmetals:adamantite": {
-    "criteria": {
-      "addy": "2025-07-23 04:21:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-07-23 04:12:29 +0000"
@@ -2795,6 +2789,24 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-07-23 04:12:29 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:adamantite": {
+    "criteria": {
+      "addy": "2025-07-23 04:21:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-07-23 04:52:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-23 04:52:03 +0000"
     },
     "done": true
   },
