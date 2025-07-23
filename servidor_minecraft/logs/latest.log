@@ -1165,3 +1165,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [23Jul2025 00:30:22.213] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JxanderC lost connection: Disconnected
 [23Jul2025 00:30:22.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JxanderC left the game
 [23Jul2025 00:30:22.213] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7e46a1d7-8feb-3d01-b84f-9fcb2bc397e0
+[23Jul2025 00:33:33.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkcalvito has made the advancement [Cover Me with Diamonds]
+[23Jul2025 00:41:41.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mixelanea[/127.158.161.37:53079] logged in with entity id 5667 at (245.31476645144903, 64.5625, -0.5458236582940634)
+[23Jul2025 00:41:41.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mixelanea joined the game
+[23Jul2025 00:41:41.963] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d9037dc8-5de2-3afa-8253-8f4279844af2
+[23Jul2025 00:41:41.964] [Server thread/INFO] [Jade/]: Syncing config to Mixelanea (d9037dc8-5de2-3afa-8253-8f4279844af2)

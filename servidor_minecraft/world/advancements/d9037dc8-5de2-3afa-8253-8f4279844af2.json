@@ -3980,6 +3980,66 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "pumpkin_stem": "2024-07-23 23:18:24 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_mace": {
+    "criteria": {
+      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_rapier": {
+    "criteria": {
+      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/staves/staff_battlestaff_of_terror": {
+    "criteria": {
+      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_broken_sawblade": {
+    "criteria": {
+      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_soul_bow": {
+    "criteria": {
+      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_beestinger": {
+    "criteria": {
+      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_freezing_foil": {
+    "criteria": {
+      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_hunting_bow": {
+    "criteria": {
+      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_anchor": {
+    "criteria": {
+      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_slayer": {
     "criteria": {
       "has_iron_ingot": "2024-07-23 23:24:33 +0000"
@@ -3992,27 +4052,9 @@
     },
     "done": true
   },
-  "mcdw:recipes/gauntlets/gauntlet_gauntlets": {
-    "criteria": {
-      "has_leather": "2024-07-23 23:57:14 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/bows/bow_twin_bow": {
     "criteria": {
       "has_iron_ingot": "2024-07-23 23:24:33 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/bows/bow_masters_bow": {
-    "criteria": {
-      "has_leather": "2024-07-23 23:57:14 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/hammers/hammer_great_hammer": {
-    "criteria": {
-      "has_leather": "2024-07-23 23:57:14 +0000"
     },
     "done": true
   },
@@ -4025,12 +4067,6 @@
   "mcdw:recipes/shields/shield_royal_guard": {
     "criteria": {
       "has_iron_ingot": "2024-07-23 23:24:33 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/hammers/hammer_mace": {
-    "criteria": {
-      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
     },
     "done": true
   },
@@ -4049,12 +4085,6 @@
   "mcdw:recipes/axes/axe_firebrand": {
     "criteria": {
       "has_iron_ingot": "2024-07-23 23:24:33 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/swords/sword_rapier": {
-    "criteria": {
-      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
     },
     "done": true
   },
@@ -4154,21 +4184,9 @@
     },
     "done": true
   },
-  "mcdw:recipes/bows/bow_hunters_promise": {
-    "criteria": {
-      "has_leather": "2024-07-23 23:57:14 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/crossbows/crossbow_butterfly": {
     "criteria": {
       "has_iron_ingot": "2024-07-23 23:24:33 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/staves/staff_battlestaff_of_terror": {
-    "criteria": {
-      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
     },
     "done": true
   },
@@ -4181,12 +4199,6 @@
   "mcdw:recipes/daggers/dagger_dagger": {
     "criteria": {
       "has_iron_ingot": "2024-07-23 23:24:33 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/whips/whip_vine_whip": {
-    "criteria": {
-      "has_leather": "2024-07-23 23:57:14 +0000"
     },
     "done": true
   },
@@ -4208,21 +4220,9 @@
     },
     "done": true
   },
-  "mcdw:recipes/swords/sword_broken_sawblade": {
-    "criteria": {
-      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/swords/sword_cutlass": {
     "criteria": {
       "has_iron_ingot": "2024-07-23 23:24:33 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/bows/bow_soul_bow": {
-    "criteria": {
-      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
     },
     "done": true
   },
@@ -4241,42 +4241,6 @@
   "mcdw:recipes/crossbows/crossbow_voidcaller_crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-07-23 23:24:33 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/swords/sword_dancers_sword": {
-    "criteria": {
-      "has_leather": "2024-07-23 23:57:14 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/swords/sword_beestinger": {
-    "criteria": {
-      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/swords/sword_freezing_foil": {
-    "criteria": {
-      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/bows/bow_hunting_bow": {
-    "criteria": {
-      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/whips/whip_whip": {
-    "criteria": {
-      "has_leather": "2024-07-23 23:57:14 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/axes/axe_anchor": {
-    "criteria": {
-      "has_iron_nugget": "2024-07-23 23:24:28 +0000"
     },
     "done": true
   },
@@ -4316,15 +4280,51 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "pumpkin_stem": "2024-07-23 23:18:24 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/crossbows/crossbow_rapid": {
     "criteria": {
       "has_iron_ingot": "2024-07-23 23:24:33 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/gauntlets/gauntlet_gauntlets": {
+    "criteria": {
+      "has_leather": "2024-07-23 23:57:14 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_masters_bow": {
+    "criteria": {
+      "has_leather": "2024-07-23 23:57:14 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_great_hammer": {
+    "criteria": {
+      "has_leather": "2024-07-23 23:57:14 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_hunters_promise": {
+    "criteria": {
+      "has_leather": "2024-07-23 23:57:14 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/whips/whip_vine_whip": {
+    "criteria": {
+      "has_leather": "2024-07-23 23:57:14 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dancers_sword": {
+    "criteria": {
+      "has_leather": "2024-07-23 23:57:14 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/whips/whip_whip": {
+    "criteria": {
+      "has_leather": "2024-07-23 23:57:14 +0000"
     },
     "done": true
   },
