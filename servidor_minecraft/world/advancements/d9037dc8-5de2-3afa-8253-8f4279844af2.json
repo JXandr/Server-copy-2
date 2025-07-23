@@ -3385,9 +3385,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-23 23:06:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon_smithing": {
+    "criteria": {
+      "has_melon": "2025-07-23 23:08:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-23 23:13:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-23 23:13:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-23 23:13:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-23 23:14:17 +0000"
     },
     "done": true
   },
@@ -3415,12 +3445,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/melon_smithing": {
-    "criteria": {
-      "has_melon": "2025-07-23 23:08:55 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-07-23 23:20:38 +0000"
@@ -3430,24 +3454,6 @@
   "travelersbackpack:recipes/misc/void_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-07-23 23:20:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-07-23 23:06:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-23 23:13:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-07-23 23:14:17 +0000"
     },
     "done": true
   },
@@ -3469,15 +3475,39 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/lapis": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-23 23:13:39 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-07-23 23:20:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-07-23 23:39:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-07-23 23:39:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-07-23 23:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-23 23:39:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-07-23 23:39:00 +0000"
     },
     "done": true
   },
