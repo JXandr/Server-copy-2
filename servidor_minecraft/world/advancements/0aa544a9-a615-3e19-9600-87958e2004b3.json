@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-23 04:19:24 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-07-23 03:33:54 +0000"
@@ -653,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-23 04:26:14 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/shields/shield_royal_guard": {
     "criteria": {
       "has_iron_ingot": "2025-07-23 03:57:50 +0000"
@@ -704,6 +716,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-23 03:21:47 +0000",
+      "minecraft:spider": "2025-07-23 04:26:04 +0000",
       "minecraft:creeper": "2025-07-23 03:33:53 +0000",
       "minecraft:slime": "2025-07-23 03:40:39 +0000",
       "minecraft:witch": "2025-07-23 03:35:28 +0000",
@@ -903,6 +916,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-07-23 04:19:24 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/drawer": {
     "criteria": {
       "has_oak_planks": "2025-07-23 03:15:32 +0000"
@@ -1056,6 +1075,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-07-23 03:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-23 04:19:24 +0000"
     },
     "done": true
   },
@@ -1642,6 +1667,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-07-23 04:19:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-23 04:19:24 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/axes/axe_anchor": {
     "criteria": {
       "has_iron_ingot": "2025-07-23 03:57:50 +0000"
@@ -2184,6 +2221,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-23 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-23 04:19:24 +0000"
     },
     "done": true
   },
