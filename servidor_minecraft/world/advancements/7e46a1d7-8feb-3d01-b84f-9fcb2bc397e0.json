@@ -1039,6 +1039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-23 04:11:46 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/choco_disguise_boots": {
     "criteria": {
       "has_chocobo_feather": "2025-07-23 03:09:14 +0000"
