@@ -3162,6 +3162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-23 22:18:29 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:recipes/misc/music_manager": {
     "criteria": {
       "has_diamond": "2025-07-23 21:32:07 +0000"
@@ -3186,9 +3192,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-23 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-23 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-07-23 22:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-23 22:18:29 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/food/gysahl_cake": {
     "criteria": {
       "has_gysahl_green": "2025-07-23 21:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-23 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-23 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/nbtcrafting/goggle_diamond_helmet": {
+    "criteria": {
+      "has_helmet": "2025-07-23 22:16:29 +0000"
     },
     "done": true
   },
@@ -3222,6 +3270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-23 22:18:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-07-23 21:39:52 +0000"
@@ -3252,9 +3306,69 @@
     },
     "done": true
   },
+  "creategoggles:recipes/nbtcrafting/diamond_backtank": {
+    "criteria": {
+      "has_backtank": "2025-07-23 22:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-23 22:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-23 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-23 22:18:29 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/controller": {
     "criteria": {
       "has_chest": "2025-07-23 21:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-07-23 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-23 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-23 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-23 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-23 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-23 22:18:29 +0000"
     },
     "done": true
   },

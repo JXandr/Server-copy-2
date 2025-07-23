@@ -847,6 +847,7 @@
       "minecraft:skeleton": "2025-07-23 02:20:58 +0000",
       "minecraft:spider": "2025-07-23 20:07:45 +0000",
       "minecraft:creeper": "2025-07-23 02:18:27 +0000",
+      "minecraft:cave_spider": "2025-07-23 22:02:27 +0000",
       "minecraft:zombie": "2025-07-23 02:18:27 +0000"
     },
     "done": false
@@ -891,7 +892,8 @@
     "criteria": {
       "apple": "2025-07-23 02:38:59 +0000",
       "bread": "2025-07-23 02:31:47 +0000",
-      "rotten_flesh": "2025-07-23 02:19:04 +0000"
+      "rotten_flesh": "2025-07-23 02:19:04 +0000",
+      "carrot": "2025-07-23 22:07:38 +0000"
     },
     "done": false
   },
@@ -3419,6 +3421,96 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-07-23 21:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-23 21:59:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-23 21:59:41 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:recipes/mythril_drill_smithing_template": {
+    "criteria": {
+      "found_template": "2025-07-23 22:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-23 21:59:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-23 21:59:41 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-07-23 21:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-23 21:59:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-23 21:59:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-23 21:59:41 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2025-07-23 22:14:48 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-07-23 22:03:40 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-07-23 22:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-23 21:59:41 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:mythril_drill_template": {
+    "criteria": {
+      "diggy_diggy_hole": "2025-07-23 22:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-23 21:59:41 +0000"
     },
     "done": true
   },
