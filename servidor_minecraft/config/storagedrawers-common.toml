@@ -1,4 +1,3 @@
-
 [General]
 	#The number of item stacks held in a basic unit of storage.
 	#1x1 drawers hold 8 units, 1x2 drawers hold 4 units, 2x2 drawers hold 2 units.
@@ -85,4 +84,3 @@
 	enableRemoteUpgrade = true
 	#Allows a drawer and all drawers connected to it to connect to a controller remotely.
 	enableRemoteGroupUpgrade = true
-

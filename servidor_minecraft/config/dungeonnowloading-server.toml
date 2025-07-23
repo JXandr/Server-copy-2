@@ -1,4 +1,3 @@
-
 [general-settings]
 	#Whether the items show helpful tooltip
 	toggle_helpful_tooltip = true
@@ -38,4 +37,3 @@
 [pvp-settings]
 	#Whether some features work for Pvp purpose
 	toggle_pvp = false
-
