@@ -858,6 +858,7 @@
       "minecraft:creeper": "2025-07-23 02:18:27 +0000",
       "minecraft:witch": "2025-07-24 05:48:43 +0000",
       "minecraft:cave_spider": "2025-07-23 22:02:27 +0000",
+      "minecraft:piglin": "2025-07-24 22:07:35 +0000",
       "minecraft:enderman": "2025-07-24 21:21:23 +0000",
       "minecraft:zombie": "2025-07-23 02:18:27 +0000"
     },
@@ -4941,6 +4942,72 @@
   "iammusicplayer:iammusicplayer/listen_to_remote_music": {
     "criteria": {
       "listen_to_remote_music": "2025-07-24 21:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-07-24 22:06:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-07-24 22:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-24 22:10:02 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_iron_sword_var": {
+    "criteria": {
+      "has_iron_sword": "2025-07-24 22:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-07-24 22:11:10 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_glaive": {
+    "criteria": {
+      "has_the_recipe": "2025-07-24 22:15:02 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_glaive_vanilla_sword": {
+    "criteria": {
+      "has_iron_sword": "2025-07-24 22:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-24 22:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-24 22:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-24 22:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-24 22:06:45 +0000"
     },
     "done": true
   },

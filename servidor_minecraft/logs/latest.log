@@ -2832,3 +2832,369 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [22:04:40] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/150817, l='ServerLevel[world]', x=224.25, y=80.00, z=-128.25]
 [22:04:40] [Server thread/INFO]: Moving zombie: BowZombieEntity['Bow Zombie'/150538, l='ServerLevel[world]', x=250.17, y=20.00, z=-115.43]
 [22:04:40] [Server thread/INFO]: Moving zombie: BowZombieEntity['Bow Zombie'/150540, l='ServerLevel[world]', x=260.10, y=21.00, z=-120.35]
+[22:05:25] [Server thread/INFO]: [Not Secure] <Mixelanea> GIL DC
+[22:06:19] [Server thread/INFO]: JxanderC has made the advancement [We Need to Go Deeper]
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 8.15547048032903,1.0,5.8020361828254465
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 8.101994368493479,1.0,6.429582031844404
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 8.048452347335967,1.0,7.057133946214776
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 7.994875059414369,1.0,7.6846891060337725
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 7.941278900950408,1.0,8.312246002427628
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 7.8868615369623285,1.0,8.93973340159718
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 7.830159546147684,1.0,9.567014904923496
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 7.771620266472951,1.0,10.194127400438788
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 7.715173243094341,1.0,10.821430645350972
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 7.804668075852248,1.0,11.43086887793703
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 7.983873023451167,1.0,12.025368334803687
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 8.21351918854026,1.0,12.610667194149698
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 8.470155443418946,1.0,13.191042997202544
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 8.741233557219743,1.0,13.768784570988089
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 8.886422423679335,1.0,14.370750152341628
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 8.964250463847463,0.9231679985046384,14.985677517170188
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 9.005622377718112,0.7725465413369932,15.343994386624587
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 9.040806283323832,0.5510576895623984,15.692774079301245
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 9.06809778674392,0.26150779068264285,16.032812176151594
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 9.086042376345972,0.0,16.364634325775853
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 9.023944500806863,0.0,16.94277357394597
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 8.9120212144461,0.0,17.53417924727762
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 8.773437344166155,0.0,18.13268352020924
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 8.620587926985763,0.0,18.734986112255996
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 8.460105300083285,0.0,19.339321109130935
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 8.295538294848257,1.0,19.94474360530765
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 8.128785820201244,1.0,20.550748000678368
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! 7.960863944445407,1.0,21.15706375870596
+[22:06:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8081ms or 161 ticks behind
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -0.4165070701318996,0.0,16.589044451467686
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -0.5852001762742134,0.0,17.19566870554104
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -0.7539711404012905,0.0,17.80236888324589
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -0.9227837647836736,0.0,18.40910968617223
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -1.0916186807380654,0.0,19.01587222684458
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -1.2604655244682021,0.0,19.622646398951446
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -1.4293187505132892,0.0,20.22942679480701
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -1.5989594376305263,0.0,20.83599116042447
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -1.7990099089736304,0.0,21.432224417322004
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -2.0760170040000503,0.0,21.989710769525516
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -2.430502786189038,0.0,22.49586353918346
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -2.826883822033153,0.0,22.974113205479796
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -3.322285993974276,0.0,23.32499413315412
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -3.870672401572449,0.0,23.607722588250482
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -4.447409617278993,0.0,23.85398401408409
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -5.03931678515022,0.0,24.080732659633327
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -5.639341091968561,0.0,24.297040405495267
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.2437814854473,-0.07683200149536162,24.507544127373393
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.5672054887564855,-0.2274534586630068,24.620180471958946
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.855635023220088,-0.4489423104376016,24.720629566955267
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -7.112856489467788,-0.7384922093173572,24.81021007245468
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -7.342246599678504,-1.0,24.890097969561424
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -7.546816705860067,-1.0,24.961341998254454
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -7.586637290078954,-1.0,24.976893152946644
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -7.536413307429029,-1.0,24.969640549264284
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -7.436964049965127,-1.0,24.956164976036575
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -7.310564857906627,-1.0,24.947199977516846
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -7.16978704722959,-1.0,24.94543416433558
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -7.021351557956621,-1.0,24.94923654689984
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.941926687131058,-1.0,24.94923654689984
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.899428022313373,-1.0,24.94923654689984
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.8766878341014035,-1.0,24.94923654689984
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.8645200127796215,-1.0,24.94923654689984
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.858009254190506,-1.0,24.94923654689984
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.854525477080017,-1.0,24.94923654689984
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.842704955909596,-1.0,24.80330067713956
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.784932776800133,-1.0,24.588136013434763
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.66145113343174,-1.0,24.35956847819537
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.479591982785223,-1.0,24.14765365267698
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.382282777154558,-1.0,24.034262254667908
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.330214561357877,-1.0,23.973588778373824
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.3023538972132656,-1.0,23.941123610907482
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.287446211311192,-1.0,23.923752147081842
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.279469405812165,-1.0,23.914457023138368
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.275201176229984,-1.0,23.90948338764099
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.275201176229984,-1.0,23.90948338764099
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.275201176229984,-1.0,23.90948338764099
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.461034151423803,-1.0,23.68317800947014
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -6.806016842013378,0.0,23.402541517188155
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -7.275790400343283,0.0,23.185893439534254
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -7.8199657387104935,0.0,23.07328209246461
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -8.392987626868717,-0.07683200149536162,22.9137923913097
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -8.728431963007097,-0.2274534586630068,22.83357224010652
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -9.050206873221725,-0.4489423104376016,22.78154899604843
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -9.358645822430162,-0.7384922093173572,22.755925867958837
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -9.655191761270544,-1.0,22.753846363968478
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -10.134452194561447,-1.0,22.961558384363798
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -10.605695654404656,-1.0,23.28041296554173
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -11.072649391597167,-1.0,23.658737715050847
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -11.539486354784401,-1.0,24.066606939698744
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -12.00596516101723,-1.0,24.490596642331838
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -12.531897479140923,-1.0,24.81436916847892
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -13.087821466507933,-1.0,25.08956105256007
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -13.660643734000132,-1.0,25.33643880836823
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -14.255506174959464,-1.0,25.519513103218372
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -14.86333021899668,-1.0,25.573617315259185
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -15.130724085831616,-1.0,25.46806289232765
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -15.209127984178167,-1.0,25.28022691087574
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -15.193239686553,-1.0,25.04521511417329
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -15.135505374451782,-1.0,24.781576860206172
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -15.060743119396648,-1.0,24.500822327285704
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -14.980027614104301,-1.0,24.20995635474901
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -14.898898477520788,-1.0,23.91290700712304
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -14.823038758965367,-1.0,23.611189078137016
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -14.755330832989841,-1.0,23.30586505928818
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -15.00787813909011,-1.0,23.093951955148384
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -15.143011167334294,-1.0,22.980561478214668
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -15.195516318954844,-1.0,22.774819926069227
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -15.205952896965414,-1.0,22.519386606759667
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -15.19234760257882,-1.0,22.237558518975845
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -15.145341261296096,-1.0768320014953616,21.945836621086215
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -15.112550258290014,-1.2274534586630068,21.777251330474712
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -15.073134418671259,-1.4489423104376016,21.61637682920707
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -15.027752152377843,-1.7384922093173572,21.462435540441533
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -14.977049026622637,-2.093407939109099,21.31467729076357
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -14.931831977770969,-2.5111010141305457,21.182906479903153
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -14.891507412442934,-2.989085452684037,21.06539326739113
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -14.85554596404694,-3.0,20.96059498145263
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -14.823475543443124,-3.0,20.867135867359195
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -14.806315300793244,-3.0,20.81712775878151
+[22:06:23] [Server thread/WARN]: Horse (vehicle of Mixelanea) moved too quickly! -14.660209414575434,-3.0,20.73851498568075
+[22:06:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[22:06:44] [Server thread/INFO]: Mixelanea has made the advancement [We Need to Go Deeper]
+[22:07:01] [Worker-Main-53/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/153522, l='ServerLevel[world]', x=133.00, y=31.00, z=159.00] as it would cause deadlock
+[22:07:02] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/153532, l='ServerLevel[world]', x=133.00, y=31.00, z=159.00] as it would cause deadlock
+[22:07:04] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[22:09:47] [Server thread/INFO]: [Not Secure] <JxanderC> xaero-waypoint:portal:P:-41:54:5:8:false:0:Internal-the-nether-waypoints
+[22:11:10] [Server thread/INFO]: JxanderC has made the advancement [Ol' Betsy]
+[22:11:29] [Server thread/INFO]: JxanderC tried to swim in lava
+[22:12:26] [Worker-Main-53/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/159373, l='ServerLevel[world]', x=230.00, y=31.00, z=149.00] as it would cause deadlock
+[22:12:26] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/159381, l='ServerLevel[world]', x=230.00, y=31.00, z=149.00] as it would cause deadlock
+[22:12:51] [Server thread/INFO]: Darkcalvito has made the advancement [We Need to Go Deeper]
+[22:13:20] [Server thread/INFO]: Mixelanea has made the advancement [Those Were the Days]
+[22:13:31] [Server thread/INFO]: Darkcalvito has made the advancement [GOLD!!!]
+[22:13:31] [Server thread/INFO]: [Not Secure] <Mixelanea> xaero-waypoint:bastion:B:124:51:-62:13:false:0:Internal-the-nether-waypoints
+[22:14:20] [Worker-Main-53/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/160603, l='ServerLevel[world]', x=323.00, y=31.00, z=-236.00] as it would cause deadlock
+[22:14:20] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/160606, l='ServerLevel[world]', x=323.00, y=31.00, z=-236.00] as it would cause deadlock
+[22:17:16] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[22:17:20] [Server thread/INFO]: [STDOUT]: []
+[22:17:44] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[22:17:50] [Server thread/INFO]: JxanderC tried to swim in lava
+[22:17:55] [Server thread/INFO]: Mixelanea was doomed to fall by Piglin
+[22:17:55] [Server thread/INFO]: Created new backpack backup file for Mixelanea with unique ID travelersbackpack.melon_24.07.2025-22.17.55.dat
+[22:17:55] [Server thread/INFO]: Created new backpack backup file for Mixelanea with unique ID travelersbackpack.melon_24.07.2025-22.17.55.dat
+[22:17:55] [Server thread/INFO]: Your backpack has been placed at X: 126 Y: 33 Z: -92
+[22:18:40] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved wrongly! 0.32007000737041835
+[22:18:40] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved wrongly! 1.0473173893518606
+[22:18:40] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved wrongly! 1.539077776430645
+[22:18:40] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved wrongly! 1.9048746646086556
+[22:20:33] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved wrongly! 0.2932499397378763
+[22:20:33] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved wrongly! 0.7434120754564617
+[22:20:33] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved wrongly! 1.2775347987526544
+[22:20:33] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved wrongly! 1.8565831584680978
+[22:21:13] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved wrongly! 0.46172481940089094
+[22:21:13] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved wrongly! 0.46172481940089094
+[22:21:13] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved wrongly! 0.46172481940089094
+[22:21:13] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved wrongly! 0.46172481940089094
+[22:21:31] [Server thread/INFO]: Darkcalvito has made the advancement [Oh Shiny]
+[22:21:57] [Server thread/INFO]: Mixelanea tried to swim in lava
+[22:23:45] [Server thread/INFO]: [STDOUT]: []
+[22:24:34] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[22:25:00] [Server thread/INFO]: JxanderC lost connection: Disconnected
+[22:25:00] [Server thread/INFO]: JxanderC left the game
+[22:25:14] [Server thread/INFO]: [Not Secure] <Mixelanea> xaero-waypoint:gui.xaero-deathpoint-old:D:129:33:-96:0:false:0:Internal-the-nether-waypoints
+[22:26:13] [Server thread/INFO]: Mixelanea fell from a high place
+[22:28:40] [Server thread/INFO]: Darkcalvito lost connection: Timed out
+[22:28:40] [Server thread/INFO]: Darkcalvito left the game
+[22:28:40] [Server thread/INFO]: [Handshake] Sending channel query
+[22:28:40] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[22:28:40] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[22:28:41] [Server thread/INFO]: Darkcalvito[/127.14.164.65:42331] logged in with entity id 174956 at (117.63434818652622, 73.41999998688698, -122.65680654900622)
+[22:28:41] [Server thread/INFO]: Sending server config values to client
+[22:28:41] [Server thread/INFO]: Loading config from file...
+[22:28:41] [Server thread/INFO]: Darkcalvito joined the game
+[22:28:41] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[22:28:42] [Server thread/INFO]: Mixelanea lost connection: Timed out
+[22:28:42] [Server thread/INFO]: Mixelanea left the game
+[22:28:43] [Server thread/INFO]: [Handshake] Sending channel query
+[22:28:43] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[22:28:43] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[22:28:43] [ForkJoinPool.commonPool-worker-43/WARN]: Failed to fetch skin 'mojang:Mixelanea'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.2+1.20-fabric.jar:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[skinrestorer-2.4.2+1.20-fabric.jar:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[skinrestorer-2.4.2+1.20-fabric.jar:?]
+	at net.minecraft.class_3312.method_14509(class_3312.java:98) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3312.method_14515(class_3312.java:150) ~[server-intermediary.jar:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[skinrestorer-2.4.2+1.20-fabric.jar:?]
+	at net.minecraft.class_3248.mdbeb788$skinrestorer$lambda$skinrestorer$fetchSkin$1$1(class_3248.java:2082) ~[server-intermediary.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.class_3248.skinrestorer$fetchSkin(class_3248.java:2081) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.mdbeb788$skinrestorer$lambda$waitForSkin$0$2(class_3248.java:2066) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[22:28:43] [Server thread/INFO]: Mixelanea[/127.158.161.37:49479] logged in with entity id 175295 at (204.82698525217117, 65.0, -205.4779368609669)
+[22:28:43] [Server thread/INFO]: Sending server config values to client
+[22:28:43] [Server thread/INFO]: Loading config from file...
+[22:28:43] [Server thread/INFO]: Mixelanea joined the game
+[22:28:44] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[22:31:26] [Server thread/INFO]: Darkcalvito has made the advancement [Those Were the Days]

@@ -857,10 +857,12 @@
     "criteria": {
       "minecraft:pillager": "2025-07-23 02:56:16 +0000",
       "minecraft:skeleton": "2025-07-23 03:28:37 +0000",
+      "minecraft:hoglin": "2025-07-24 22:13:53 +0000",
       "minecraft:vindicator": "2025-07-23 02:56:16 +0000",
       "minecraft:spider": "2025-07-23 03:20:25 +0000",
       "minecraft:creeper": "2025-07-23 23:32:27 +0000",
       "minecraft:witch": "2025-07-24 19:21:46 +0000",
+      "minecraft:piglin": "2025-07-24 22:14:32 +0000",
       "minecraft:enderman": "2025-07-23 02:46:16 +0000",
       "minecraft:stray": "2025-07-23 02:46:26 +0000",
       "minecraft:zombie": "2025-07-23 02:17:23 +0000",
@@ -4871,6 +4873,108 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-07-24 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-07-24 22:06:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-24 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-24 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-07-24 22:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-24 22:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-24 22:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-07-24 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-07-24 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_sand": "2025-07-24 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-07-24 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_sand": "2025-07-24 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-07-24 22:15:46 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/nbtcrafting/goggle_golden_helmet": {
+    "criteria": {
+      "has_helmet": "2025-07-24 22:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-07-24 22:15:46 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/nbtcrafting/iron_backtank": {
+    "criteria": {
+      "has_backtank": "2025-07-24 22:19:09 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/nbtcrafting/goggle_iron_helmet": {
+    "criteria": {
+      "has_helmet": "2025-07-24 22:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_weeping_vine_bow": {
+    "criteria": {
+      "has_weeping_vines": "2025-07-24 22:25:52 +0000"
     },
     "done": true
   },
