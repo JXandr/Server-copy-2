@@ -2817,6 +2817,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-07-24 21:45:53 +0000",
       "onion": "2025-07-23 20:23:51 +0000",
       "tomato": "2025-07-23 20:24:00 +0000",
       "sugar_cane": "2025-07-24 05:38:10 +0000",
