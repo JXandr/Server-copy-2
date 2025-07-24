@@ -1776,3 +1776,217 @@ java.lang.IllegalStateException: not found
 [21:08:30] [Server thread/INFO]: [STDOUT]: []
 [21:08:52] [Server thread/INFO]: [STDOUT]: []
 [21:10:40] [Server thread/INFO]: [STDOUT]: []
+[21:17:41] [Server thread/INFO]: JxanderC lost connection: Disconnected
+[21:17:41] [Server thread/INFO]: JxanderC left the game
+[21:17:41] [Server thread/INFO]: [STDOUT]: []
+[21:17:44] [Server thread/INFO]: [Handshake] Sending channel query
+[21:17:44] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[21:17:44] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[21:17:44] [Server thread/INFO]: JxanderC[/127.137.147.40:42853] logged in with entity id 93013 at (-618.7385404041524, 70.0, 213.04397075932934)
+[21:17:44] [Server thread/INFO]: Sending server config values to client
+[21:17:44] [Server thread/INFO]: Loading config from file...
+[21:17:44] [Server thread/INFO]: JxanderC joined the game
+[21:17:44] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[21:18:01] [Server thread/INFO]: [STDOUT]: []
+[21:18:36] [Server thread/INFO]: [STDOUT]: []
+[21:19:46] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.io.IOException: Packet -1/0 (class_2889) was larger than I expected, found 67 bytes extra whilst reading packet 0
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.io.IOException: Packet -1/0 (class_2889) was larger than I expected, found 67 bytes extra whilst reading packet 0
+	at net.minecraft.class_2543.decode(class_2543.java:47) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[21:19:55] [Server thread/INFO]: Martonimen was slain by Acolyte
+[21:19:55] [Server thread/INFO]: Created new backpack backup file for Martonimen with unique ID travelersbackpack.standard_24.07.2025-21.19.55.dat
+[21:19:55] [Server thread/INFO]: Created new backpack backup file for Martonimen with unique ID travelersbackpack.standard_24.07.2025-21.19.55.dat
+[21:19:55] [Server thread/INFO]: Your backpack has been placed at X: 30 Y: -1 Z: 400
+[21:19:58] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.io.IOException: Packet -1/0 (class_2889) was larger than I expected, found 67 bytes extra whilst reading packet 0
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.io.IOException: Packet -1/0 (class_2889) was larger than I expected, found 67 bytes extra whilst reading packet 0
+	at net.minecraft.class_2543.decode(class_2543.java:47) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[21:20:18] [Server thread/INFO]: Darkcalvito lost connection: Disconnected
+[21:20:18] [Server thread/INFO]: Darkcalvito left the game
+[21:20:27] [Server thread/INFO]: [Not Secure] <Martonimen> zzz
+[21:20:27] [Server thread/INFO]: [Not Secure] <Martonimen> zzz
+[21:20:27] [Server thread/INFO]: [Not Secure] <Martonimen> z
+[21:20:28] [Server thread/INFO]: [Not Secure] <Martonimen> z
+[21:20:28] [Server thread/INFO]: [Not Secure] <Martonimen> z
+[21:20:28] [Server thread/INFO]: [Not Secure] <Martonimen> z
+[21:20:28] [Server thread/INFO]: [Not Secure] <Martonimen> z
+[21:20:28] [Server thread/INFO]: [Not Secure] <Martonimen> z
+[21:20:29] [Server thread/INFO]: [Not Secure] <Martonimen> zz
+[21:20:29] [Server thread/INFO]: [Not Secure] <Martonimen> z
+[21:20:29] [Server thread/INFO]: [Not Secure] <Martonimen> z
+[21:20:30] [Server thread/INFO]: [Not Secure] <Mixelanea> ZZ
+[21:20:30] [Server thread/INFO]: [Not Secure] <Mixelanea> Z
+[21:20:30] [Server thread/INFO]: [Not Secure] <Mixelanea> Z
+[21:20:30] [Server thread/INFO]: [Not Secure] <Mixelanea> Z
+[21:20:31] [Server thread/INFO]: [Not Secure] <Mixelanea> Z
+[21:20:31] [Server thread/INFO]: [Not Secure] <Mixelanea> Z
+[21:20:31] [Server thread/INFO]: [Not Secure] <Mixelanea> Z
+[21:20:31] [Server thread/INFO]: [Not Secure] <Mixelanea> Z
+[21:20:31] [Server thread/INFO]: [Not Secure] <Mixelanea> Z
+[21:20:31] [Server thread/INFO]: [Not Secure] <Mixelanea> Z
+[21:20:32] [Server thread/INFO]: [Not Secure] <Mixelanea> Z
+[21:20:32] [Server thread/INFO]: [Not Secure] <Mixelanea> Z
+[21:20:32] [Server thread/INFO]: Mixelanea lost connection: Disconnected
+[21:20:32] [Server thread/INFO]: Mixelanea left the game
+[21:20:32] [Server thread/WARN]: handleDisconnection() called twice
+[21:20:36] [Server thread/INFO]: [Handshake] Sending channel query
+[21:20:36] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[21:20:36] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[21:20:37] [ForkJoinPool.commonPool-worker-28/WARN]: Failed to fetch skin 'mojang:Mixelanea'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.2+1.20-fabric.jar:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[skinrestorer-2.4.2+1.20-fabric.jar:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[skinrestorer-2.4.2+1.20-fabric.jar:?]
+	at net.minecraft.class_3312.method_14509(class_3312.java:98) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3312.method_14515(class_3312.java:150) ~[server-intermediary.jar:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[skinrestorer-2.4.2+1.20-fabric.jar:?]
+	at net.minecraft.class_3248.mdbeb788$skinrestorer$lambda$skinrestorer$fetchSkin$1$1(class_3248.java:2082) ~[server-intermediary.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.class_3248.skinrestorer$fetchSkin(class_3248.java:2081) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.mdbeb788$skinrestorer$lambda$waitForSkin$0$2(class_3248.java:2066) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[21:20:37] [Server thread/INFO]: Mixelanea[/127.158.161.37:34401] logged in with entity id 97812 at (92.5, 33.875, -235.5)
+[21:20:37] [Server thread/INFO]: Sending server config values to client
+[21:20:37] [Server thread/INFO]: Loading config from file...
+[21:20:37] [Server thread/INFO]: Mixelanea joined the game
+[21:20:37] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[21:20:37] [Server thread/INFO]: [Not Secure] <Martonimen> zzzzz
+[21:20:37] [Server thread/INFO]: [Not Secure] <Martonimen> z
+[21:20:37] [Server thread/INFO]: [Not Secure] <Martonimen> z
+[21:20:37] [Server thread/INFO]: [Not Secure] <Martonimen> z
+[21:20:38] [Server thread/INFO]: [Not Secure] <Martonimen> zz
+[21:20:38] [Server thread/INFO]: [Not Secure] <Martonimen> z
+[21:20:38] [Server thread/INFO]: [Not Secure] <Martonimen> z
+[21:21:02] [Server thread/INFO]: JxanderC lost connection: Disconnected
+[21:21:02] [Server thread/INFO]: JxanderC left the game
+[21:21:04] [Server thread/INFO]: Martonimen lost connection: Disconnected
+[21:21:04] [Server thread/INFO]: Martonimen left the game
+[21:21:07] [Server thread/INFO]: [Handshake] Sending channel query
+[21:21:07] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[21:21:07] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[21:21:07] [Server thread/INFO]: Martonimen[/127.8.193.237:35401] logged in with entity id 98533 at (406.2722199605648, 63.0, 378.7906278822622)
+[21:21:07] [Server thread/INFO]: Sending server config values to client
+[21:21:07] [Server thread/INFO]: Loading config from file...
+[21:21:07] [Server thread/INFO]: Martonimen joined the game
+[21:21:07] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[21:21:07] [Server thread/INFO]: [Handshake] Sending channel query
+[21:21:07] [Server thread/INFO]: [Handshake] Sending channel query
+[21:21:07] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[21:21:07] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[21:21:08] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[21:21:08] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[21:21:08] [Server thread/INFO]: JxanderC[/127.137.147.40:49697] logged in with entity id 98689 at (-581.3756915199251, 60.93065635816442, 352.33212097785173)
+[21:21:08] [Server thread/INFO]: Sending server config values to client
+[21:21:08] [Server thread/INFO]: Loading config from file...
+[21:21:08] [Server thread/INFO]: JxanderC joined the game
+[21:21:08] [Server thread/INFO]: Darkcalvito[/127.14.164.65:35021] logged in with entity id 98691 at (172.34614517823792, 64.0, 236.51550879339186)
+[21:21:08] [Server thread/INFO]: Sending server config values to client
+[21:21:08] [Server thread/INFO]: Loading config from file...
+[21:21:08] [Server thread/INFO]: Darkcalvito joined the game
+[21:21:08] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[21:21:08] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[21:21:33] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[21:22:53] [Server thread/INFO]: JxanderC has reached the goal [Listen directly]
