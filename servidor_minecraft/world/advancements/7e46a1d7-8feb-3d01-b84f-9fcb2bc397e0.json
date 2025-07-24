@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-07-23 02:48:27 +0000",
+      "minecraft:cherry_grove": "2025-07-24 20:46:38 +0000",
       "minecraft:beach": "2025-07-23 02:56:44 +0000",
       "minecraft:river": "2025-07-23 02:07:51 +0000",
       "minecraft:snowy_plains": "2025-07-23 02:02:10 +0000",
@@ -2078,6 +2079,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "pillager_outpost": "2025-07-24 20:49:59 +0000",
       "illager_camp": "2025-07-23 02:56:48 +0000",
       "witch_villa": "2025-07-24 06:58:58 +0000"
     },
@@ -4835,6 +4837,60 @@
   "iammusicplayer:iammusicplayer/write_cassette_tape": {
     "criteria": {
       "write_cassette_tape": "2025-07-24 07:34:55 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-07-24 20:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-24 20:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-24 20:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-24 20:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-07-24 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2025-07-24 20:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-07-24 20:56:10 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_sinister": {
+    "criteria": {
+      "has_obsidian": "2025-07-24 20:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-24 20:56:10 +0000"
     },
     "done": true
   },
