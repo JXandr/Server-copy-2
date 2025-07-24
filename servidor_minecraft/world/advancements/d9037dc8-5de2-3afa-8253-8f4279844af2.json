@@ -4500,25 +4500,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-07-24 20:05:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-07-24 20:05:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
-      "has_clay_ball": "2025-07-24 20:05:55 +0000"
+      "has_coal_ore": "2025-07-24 20:05:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-07-24 20:05:16 +0000"
     },
@@ -4530,15 +4524,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-07-24 20:05:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-07-24 20:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-24 20:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-24 20:05:55 +0000"
     },
     "done": true
   },
