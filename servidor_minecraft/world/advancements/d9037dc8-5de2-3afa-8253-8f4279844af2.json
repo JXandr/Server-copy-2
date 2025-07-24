@@ -4203,6 +4203,12 @@
     },
     "done": true
   },
+  "mythicmetals:adamantite": {
+    "criteria": {
+      "addy": "2025-07-24 18:15:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2025-07-24 17:12:03 +0000"
