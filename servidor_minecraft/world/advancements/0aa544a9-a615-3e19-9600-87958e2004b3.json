@@ -1035,6 +1035,7 @@
       "minecraft:creeper": "2025-07-23 03:33:53 +0000",
       "minecraft:slime": "2025-07-23 03:40:39 +0000",
       "minecraft:witch": "2025-07-23 03:35:28 +0000",
+      "minecraft:cave_spider": "2025-07-24 07:42:15 +0000",
       "minecraft:enderman": "2025-07-23 04:57:00 +0000",
       "minecraft:zombie": "2025-07-23 03:21:39 +0000"
     },
@@ -3927,6 +3928,12 @@
     },
     "done": true
   },
+  "mythicmetals:recipes/mythril_drill_smithing_template": {
+    "criteria": {
+      "found_template": "2025-07-24 07:40:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-07-24 07:29:32 +0000"
@@ -3972,6 +3979,12 @@
   "create:recipes/building_blocks/mangrove_window": {
     "criteria": {
       "has_ingredient": "2025-07-24 07:16:11 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:mythril_drill_template": {
+    "criteria": {
+      "diggy_diggy_hole": "2025-07-24 07:40:52 +0000"
     },
     "done": true
   },
