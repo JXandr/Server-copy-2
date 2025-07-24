@@ -1574,6 +1574,7 @@
       "rotten_flesh": "2025-07-23 03:39:06 +0000",
       "glow_berries": "2025-07-24 05:33:45 +0000",
       "beetroot": "2025-07-23 03:31:22 +0000",
+      "golden_carrot": "2025-07-24 06:25:30 +0000",
       "mushroom_stew": "2025-07-23 03:44:01 +0000"
     },
     "done": false
@@ -3491,6 +3492,24 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-07-24 06:14:37 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_radio": {
+    "criteria": {
+      "listen_to_radio": "2025-07-24 06:22:24 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2025-07-24 06:22:24 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2025-07-24 06:22:24 +0000"
     },
     "done": true
   },
