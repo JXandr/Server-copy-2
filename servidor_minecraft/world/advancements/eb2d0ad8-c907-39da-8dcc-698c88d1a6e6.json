@@ -7,12 +7,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-07-24 04:52:19 +0000",
       "minecraft:beach": "2025-07-23 22:53:10 +0000",
       "minecraft:river": "2025-07-23 21:42:38 +0000",
       "minecraft:snowy_plains": "2025-07-23 02:01:15 +0000",
       "minecraft:stony_shore": "2025-07-23 04:58:12 +0000",
       "minecraft:cold_ocean": "2025-07-23 02:34:27 +0000",
       "minecraft:forest": "2025-07-23 02:06:31 +0000",
+      "minecraft:ice_spikes": "2025-07-24 04:52:00 +0000",
       "minecraft:frozen_ocean": "2025-07-23 04:58:47 +0000",
       "minecraft:meadow": "2025-07-23 03:49:42 +0000",
       "minecraft:plains": "2025-07-23 02:19:42 +0000"
@@ -4482,6 +4484,12 @@
     },
     "done": true
   },
+  "mythicmetals:osmium": {
+    "criteria": {
+      "gliscos_favorite": "2025-07-24 04:51:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-24 04:09:09 +0000"
@@ -4702,6 +4710,12 @@
   "mcdw:recipes/hammers/hammer_bone_cudgel": {
     "criteria": {
       "has_bone_block": "2025-07-24 04:24:52 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:recipes/osmium_chainmail_smithing_template": {
+    "criteria": {
+      "found_osmium": "2025-07-24 04:51:43 +0000"
     },
     "done": true
   },
