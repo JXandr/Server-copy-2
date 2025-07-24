@@ -1882,6 +1882,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "potato": "2025-07-24 18:56:00 +0000",
       "wheat": "2025-07-23 02:37:01 +0000",
       "carrot": "2025-07-23 23:25:43 +0000"
     },
@@ -4218,6 +4219,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-07-24 16:51:40 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_poisonous_potato": "2025-07-24 18:55:49 +0000"
     },
     "done": true
   },
