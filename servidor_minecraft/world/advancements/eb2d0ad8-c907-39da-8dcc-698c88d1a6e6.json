@@ -5024,6 +5024,12 @@
     },
     "done": true
   },
+  "mythicmetals:recipes/mythril_drill_smithing_template": {
+    "criteria": {
+      "found_template": "2025-07-24 06:38:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-07-24 06:22:17 +0000"
@@ -5060,6 +5066,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-07-24 06:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-07-24 06:14:26 +0000"
@@ -5084,6 +5096,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-07-24 06:33:28 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sandstone": {
     "criteria": {
       "has_sandstone": "2025-07-24 06:22:17 +0000"
@@ -5105,6 +5123,30 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-07-24 05:59:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-07-24 06:40:13 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-07-24 06:33:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-07-24 06:40:13 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:mythril_drill_template": {
+    "criteria": {
+      "diggy_diggy_hole": "2025-07-24 06:38:58 +0000"
     },
     "done": true
   },
