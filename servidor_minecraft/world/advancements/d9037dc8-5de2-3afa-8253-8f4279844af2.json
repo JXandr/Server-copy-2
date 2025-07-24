@@ -860,6 +860,7 @@
       "minecraft:vindicator": "2025-07-23 02:56:16 +0000",
       "minecraft:spider": "2025-07-23 03:20:25 +0000",
       "minecraft:creeper": "2025-07-23 23:32:27 +0000",
+      "minecraft:witch": "2025-07-24 19:21:46 +0000",
       "minecraft:enderman": "2025-07-23 02:46:16 +0000",
       "minecraft:stray": "2025-07-23 02:46:26 +0000",
       "minecraft:zombie": "2025-07-23 02:17:23 +0000",
@@ -889,6 +890,7 @@
     "criteria": {
       "cooked_beef": "2025-07-24 00:03:39 +0000",
       "apple": "2025-07-23 02:18:02 +0000",
+      "potato": "2025-07-24 19:28:23 +0000",
       "bread": "2025-07-23 02:36:05 +0000",
       "rotten_flesh": "2025-07-23 02:20:37 +0000",
       "glow_berries": "2025-07-24 04:56:24 +0000",
@@ -4411,6 +4413,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-24 17:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-24 19:21:47 +0000"
     },
     "done": true
   },
