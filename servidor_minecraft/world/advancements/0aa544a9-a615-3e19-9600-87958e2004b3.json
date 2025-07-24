@@ -3927,5 +3927,29 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-07-24 07:12:39 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:orichalcum": {
+    "criteria": {
+      "orich": "2025-07-24 07:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-07-24 07:18:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/mangrove_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-24 07:16:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
