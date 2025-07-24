@@ -11,6 +11,7 @@
       "minecraft:beach": "2025-07-23 02:56:44 +0000",
       "minecraft:river": "2025-07-23 02:07:51 +0000",
       "minecraft:snowy_plains": "2025-07-23 02:02:10 +0000",
+      "minecraft:stony_shore": "2025-07-24 06:17:42 +0000",
       "minecraft:snowy_taiga": "2025-07-23 02:49:17 +0000",
       "minecraft:jagged_peaks": "2025-07-24 05:11:39 +0000",
       "minecraft:cold_ocean": "2025-07-23 02:28:43 +0000",
@@ -850,6 +851,7 @@
       "minecraft:vindicator": "2025-07-24 05:15:45 +0000",
       "minecraft:spider": "2025-07-23 20:07:45 +0000",
       "minecraft:creeper": "2025-07-23 02:18:27 +0000",
+      "minecraft:witch": "2025-07-24 05:48:43 +0000",
       "minecraft:cave_spider": "2025-07-23 22:02:27 +0000",
       "minecraft:zombie": "2025-07-23 02:18:27 +0000"
     },
@@ -4388,15 +4390,75 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/lapis_smithing": {
+    "criteria": {
+      "has_lapis": "2025-07-24 05:24:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-24 05:25:29 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/lapis_smithing": {
+  "creategoggles:recipes/nbtcrafting/goggle_iron_helmet": {
     "criteria": {
-      "has_lapis": "2025-07-24 05:24:30 +0000"
+      "has_helmet": "2025-07-24 05:44:32 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-07-24 05:48:08 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/boombox": {
+    "criteria": {
+      "has_jukebox": "2025-07-24 05:51:20 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/cassette_deck": {
+    "criteria": {
+      "has_jukebox": "2025-07-24 05:51:20 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_mace": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-24 05:51:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-24 05:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-24 05:51:36 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_freezing_foil": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-24 05:51:36 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_radio": {
+    "criteria": {
+      "listen_to_radio": "2025-07-24 05:56:35 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2025-07-24 05:56:35 +0000"
     },
     "done": true
   },
