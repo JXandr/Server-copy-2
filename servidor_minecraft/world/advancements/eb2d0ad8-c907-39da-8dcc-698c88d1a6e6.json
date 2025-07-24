@@ -5664,5 +5664,11 @@
     },
     "done": true
   },
+  "mythicmetals:recipes/midas_folding_template": {
+    "criteria": {
+      "has_midas_gold_ingot": "2025-07-24 23:46:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
