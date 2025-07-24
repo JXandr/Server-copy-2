@@ -1990,3 +1990,228 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 25 more
 [21:22:53] [Server thread/INFO]: JxanderC has reached the goal [Listen directly]
+[21:25:59] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[21:27:11] [Server thread/INFO]: [STDOUT]: []
+[21:27:14] [Server thread/WARN]: JxanderC was kicked for floating a vehicle too long!
+[21:27:14] [Server thread/INFO]: JxanderC lost connection: Flying is not enabled on this server
+[21:27:14] [Server thread/INFO]: JxanderC left the game
+[21:27:21] [Server thread/INFO]: [Not Secure] <Darkcalvito> sasd
+[21:27:22] [Server thread/INFO]: [Handshake] Sending channel query
+[21:27:22] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[21:27:22] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[21:27:22] [Server thread/INFO]: JxanderC[/127.137.147.40:52427] logged in with entity id 107100 at (-332.6628350586788, 131.6229998515235, 155.94877635916228)
+[21:27:22] [Server thread/INFO]: Sending server config values to client
+[21:27:22] [Server thread/INFO]: Loading config from file...
+[21:27:22] [Server thread/INFO]: JxanderC joined the game
+[21:27:22] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity FabricChocobo['Boco'/107101, l='ServerLevel[world]', x=-332.66, y=130.32, z=155.95] as it would cause deadlock
+[21:27:22] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[21:28:51] [Server thread/INFO]: Mixelanea has reached the goal [Listen directly]
+[21:28:53] [Server thread/INFO]: Martonimen lost connection: Disconnected
+[21:28:53] [Server thread/INFO]: Martonimen left the game
+[21:29:34] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.5433502571754474
+[21:29:34] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.36763821820915155
+[21:29:34] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.4732107839789279
+[21:29:34] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.39513315331255683
+[21:29:35] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.6399252612044961
+[21:29:35] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.5227602502380506
+[21:29:35] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.3307570479782953
+[21:29:35] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 3.491026978465399
+[21:29:35] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 3.491026978465399
+[21:29:35] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 2.7809016341602018
+[21:29:35] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 2.0554154466239254
+[21:29:35] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 1.4378399099882273
+[21:29:35] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 1.1450995802813964
+[21:29:36] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.44509678802106123
+[21:29:36] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.5286012046274493
+[21:29:36] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.5448900398944261
+[21:29:36] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.3760327902274696
+[21:29:36] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 1.4828047225531122
+[21:29:36] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.6483015516907642
+[21:29:36] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 1.4828047225531122
+[21:29:36] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.645318841216806
+[21:29:37] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.5669786299063162
+[21:29:37] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.4084116511459399
+[21:29:37] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 1.4744235622020767
+[21:29:37] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 1.4744235622020767
+[21:29:37] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.632165190794808
+[21:29:37] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.932965475157232
+[21:29:37] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.7759007760836596
+[21:29:37] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.932965475157232
+[21:29:37] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.932965475157232
+[21:29:37] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.7755274864428259
+[21:29:37] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.6178897578841998
+[21:29:37] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 1.460145152517299
+[21:29:38] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.5052503626968132
+[21:29:38] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.3280507812348503
+[21:29:38] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.5003678185395586
+[21:29:39] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.996958886123025
+[21:29:39] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.6133339113557099
+[21:29:39] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.6103152564451761
+[21:29:39] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.6103152564451761
+[21:29:39] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.6103152564451761
+[21:29:39] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.6103152564451761
+[21:30:05] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.3046677658802537
+[21:30:05] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.7014833082040468
+[21:30:06] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.5030825530513994
+[21:30:06] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 1.3000130888947878
+[21:30:06] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 2.11307760671479
+[21:30:06] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 2.938263008423013
+[21:30:06] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 3.3805819659192227
+[21:30:14] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.29181424559594404
+[21:30:43] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[21:31:09] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.3155941110836409
+[21:31:09] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.6766873547111203
+[21:31:09] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 1.047514960631318
+[21:31:09] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 1.4600330259846857
+[21:31:09] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 1.9388931167080727
+[21:31:09] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 1.2234447740056567
+[21:31:09] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 1.9388931167080727
+[21:31:10] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.8856661469433931
+[21:31:10] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 1.9388931167080727
+[21:31:10] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.8201044747241184
+[21:31:10] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 1.9388931167080727
+[21:31:10] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.7796009432256312
+[21:31:15] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[21:31:53] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[21:32:14] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/111550, l='ServerLevel[world]', x=-94.50, y=-53.00, z=-523.50] as it would cause deadlock
+[21:32:18] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/111666, l='ServerLevel[world]', x=-94.50, y=-53.00, z=-548.50] as it would cause deadlock
+[21:32:23] [Worker-Main-55/INFO]: [STDOUT]: []
+[21:32:48] [Server thread/INFO]: [Not Secure] <Darkcalvito> zzzzzzzzzzzzz
+[21:32:52] [Server thread/INFO]: JxanderC lost connection: Disconnected
+[21:32:52] [Server thread/INFO]: JxanderC left the game
+[21:33:09] [Server thread/INFO]: Darkcalvito lost connection: Disconnected
+[21:33:09] [Server thread/INFO]: Darkcalvito left the game
+[21:33:27] [Server thread/INFO]: [Handshake] Sending channel query
+[21:33:27] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[21:33:27] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[21:33:28] [Server thread/INFO]: Darkcalvito[/127.14.164.65:49597] logged in with entity id 112715 at (172.5339350891655, 64.0, 236.30000001192093)
+[21:33:28] [Server thread/INFO]: Sending server config values to client
+[21:33:28] [Server thread/INFO]: Loading config from file...
+[21:33:28] [Server thread/INFO]: Darkcalvito joined the game
+[21:33:28] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[21:33:30] [Server thread/INFO]: [Handshake] Sending channel query
+[21:33:30] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[21:33:30] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[21:33:30] [Server thread/INFO]: JxanderC[/127.137.147.40:56087] logged in with entity id 113008 at (236.2263215028803, 63.800000000000004, -477.2181689766518)
+[21:33:30] [Server thread/INFO]: Sending server config values to client
+[21:33:30] [Server thread/INFO]: Loading config from file...
+[21:33:30] [Server thread/INFO]: JxanderC joined the game
+[21:33:30] [Netty Epoll Server IO #6/INFO]: Receiving client config
