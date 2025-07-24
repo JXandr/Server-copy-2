@@ -1037,6 +1037,7 @@
       "minecraft:witch": "2025-07-23 03:35:28 +0000",
       "minecraft:cave_spider": "2025-07-24 07:42:15 +0000",
       "minecraft:enderman": "2025-07-23 04:57:00 +0000",
+      "minecraft:silverfish": "2025-07-24 20:28:41 +0000",
       "minecraft:zombie": "2025-07-23 03:21:39 +0000"
     },
     "done": false
@@ -3985,6 +3986,18 @@
   "mythicmetals:mythril_drill_template": {
     "criteria": {
       "diggy_diggy_hole": "2025-07-24 07:40:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-24 20:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-07-24 20:37:13 +0000"
     },
     "done": true
   },
