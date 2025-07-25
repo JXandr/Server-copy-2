@@ -2824,6 +2824,7 @@
       "cabbage": "2025-07-24 21:45:53 +0000",
       "onion": "2025-07-23 20:23:51 +0000",
       "tomato": "2025-07-23 20:24:00 +0000",
+      "beetroot": "2025-07-25 06:56:17 +0000",
       "sugar_cane": "2025-07-24 05:38:10 +0000",
       "potato": "2025-07-23 21:50:38 +0000",
       "wheat": "2025-07-23 04:52:03 +0000",
@@ -6164,6 +6165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-25 06:56:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-25 04:54:02 +0000"
@@ -6218,6 +6225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-07-25 06:56:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-07-25 05:59:03 +0000"
@@ -6227,6 +6240,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-25 04:54:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-25 06:56:11 +0000"
     },
     "done": true
   },
