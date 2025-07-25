@@ -1383,3 +1383,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [06:22:22] [Server thread/INFO]: Moving zombie: CrawlerZombieEntity['Crawler Zombie'/59761, l='ServerLevel[world]', x=417.32, y=34.00, z=-33.91]
 [06:22:22] [Server thread/INFO]: Moving zombie: SwordZombieEntity['Sword Zombie'/60267, l='ServerLevel[world]', x=417.76, y=4.00, z=-19.78]
 [06:22:22] [Server thread/INFO]: Moving zombie: BowZombieEntity['Bow Zombie'/60383, l='ServerLevel[world]', x=422.48, y=5.00, z=-22.69]
+[06:35:21] [Server thread/INFO]: Darkcalvito has reached the goal [Hired Help]
