@@ -5424,5 +5424,11 @@
     },
     "done": true
   },
+  "graveyard:graveyard/wraith_dim_light": {
+    "criteria": {
+      "dim_light": "2025-07-25 05:02:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
