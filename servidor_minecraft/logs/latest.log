@@ -731,3 +731,30 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[02:20:40] [Server thread/INFO]: [Handshake] Sending channel query
+[02:20:40] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[02:20:40] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[02:20:40] [Server thread/INFO]: Darkcalvito[/127.14.164.65:43167] logged in with entity id 6756 at (205.69999998807907, 65.0, -205.69999998807907)
+[02:20:40] [Server thread/INFO]: Sending server config values to client
+[02:20:40] [Server thread/INFO]: Loading config from file...
+[02:20:40] [Server thread/INFO]: Darkcalvito joined the game
+[02:20:41] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[02:20:57] [Server thread/INFO]: [Handshake] Sending channel query
+[02:20:57] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[02:20:57] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[02:20:58] [Server thread/INFO]: Martonimen[/127.8.193.237:54635] logged in with entity id 6820 at (32.06310694039773, 4.0, 354.12411133432363)
+[02:20:58] [Server thread/INFO]: Sending server config values to client
+[02:20:58] [Server thread/INFO]: Loading config from file...
+[02:20:58] [Server thread/INFO]: Martonimen joined the game
+[02:20:58] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[02:21:13] [Server thread/INFO]: [Not Secure] <Martonimen> zzzzz
+[02:21:17] [Server thread/INFO]: [Not Secure] <Mixelanea> ZZZZZ
+[02:21:22] [Server thread/INFO]: [Not Secure] <Darkcalvito> w
+[02:21:41] [Server thread/INFO]: [Not Secure] <Darkcalvito> xaero-waypoint:aldea 1:A:169:70:-213:8:false:0:Internal-overworld-waypoints
+[02:22:15] [Server thread/INFO]: [Not Secure] <Mixelanea> antes
+[02:22:20] [Server thread/INFO]: [Not Secure] <Mixelanea> tengo un chocobo que recuperar
+[02:23:20] [Server thread/INFO]: [Not Secure] <Mixelanea> empresta el horse, no lo metere al nether ntp
+[02:23:25] [Server thread/INFO]: [Not Secure] <Darkcalvito> oe
+[02:24:14] [Server thread/INFO]: [Not Secure] <Mixelanea> es muy lento mano, luego te doy uno de los mios
+[02:26:21] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
