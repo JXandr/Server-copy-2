@@ -2827,6 +2827,7 @@
       "sugar_cane": "2025-07-24 05:38:10 +0000",
       "potato": "2025-07-23 21:50:38 +0000",
       "wheat": "2025-07-23 04:52:03 +0000",
+      "pumpkin": "2025-07-25 06:36:22 +0000",
       "carrot": "2025-07-23 20:23:47 +0000"
     },
     "done": false
@@ -6166,6 +6167,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-25 04:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-07-25 06:35:21 +0000"
     },
     "done": true
   },
