@@ -897,6 +897,7 @@
       "bread": "2025-07-23 02:36:05 +0000",
       "rotten_flesh": "2025-07-23 02:20:37 +0000",
       "glow_berries": "2025-07-24 04:56:24 +0000",
+      "melon_slice": "2025-07-25 02:53:31 +0000",
       "golden_carrot": "2025-07-24 20:20:45 +0000",
       "carrot": "2025-07-23 23:26:04 +0000"
     },
@@ -4878,7 +4879,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-07-24 22:06:44 +0000"
+      "minecraft:crimson_forest": "2025-07-24 22:06:44 +0000",
+      "minecraft:nether_wastes": "2025-07-25 02:56:32 +0000",
+      "minecraft:soul_sand_valley": "2025-07-25 02:57:23 +0000",
+      "minecraft:basalt_deltas": "2025-07-25 02:57:21 +0000"
     },
     "done": false
   },
@@ -5188,15 +5192,51 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-07-25 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-07-25 02:52:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
       "has_golden_knife": "2025-07-25 02:40:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-25 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-25 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-25 02:52:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2025-07-25 02:40:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-07-25 02:52:24 +0000"
     },
     "done": true
   },

@@ -933,3 +933,246 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[02:52:35] [Server thread/INFO]: Number of nearby zombies: 39
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1590['Zombified Piglin'/74, l='ServerLevel[world]', x=66.47, y=108.00, z=-154.81]
+[02:52:35] [Server thread/INFO]: Moving zombie: CaveZombieEntity['Cave Zombie'/31721, l='ServerLevel[world]', x=81.50, y=-26.00, z=-73.50]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31747, l='ServerLevel[world]', x=139.66, y=45.00, z=-159.51]
+[02:52:35] [Server thread/INFO]: Moving zombie: CaveZombieEntity['Cave Zombie'/31163, l='ServerLevel[world]', x=138.54, y=18.00, z=-97.27]
+[02:52:35] [Server thread/INFO]: Moving zombie: SwordZombieEntity['Sword Zombie'/31655, l='ServerLevel[world]', x=149.50, y=28.00, z=-159.50]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31877, l='ServerLevel[world]', x=151.98, y=-10.00, z=-118.45]
+[02:52:35] [Server thread/INFO]: Moving zombie: CaveZombieEntity['Cave Zombie'/31724, l='ServerLevel[world]', x=152.65, y=35.00, z=-106.74]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31440, l='ServerLevel[world]', x=175.50, y=1.00, z=-162.50]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31889, l='ServerLevel[world]', x=163.11, y=26.00, z=-169.89]
+[02:52:35] [Server thread/INFO]: Moving zombie: RunnerZombieEntity['Runner Zombie'/31890, l='ServerLevel[world]', x=166.39, y=27.00, z=-160.50]
+[02:52:35] [Server thread/INFO]: Moving zombie: RunnerZombieEntity['Runner Zombie'/31813, l='ServerLevel[world]', x=170.52, y=42.00, z=-167.72]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/30313, l='ServerLevel[world]', x=175.47, y=20.00, z=-146.73]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31654, l='ServerLevel[world]', x=170.20, y=31.00, z=-150.44]
+[02:52:35] [Server thread/INFO]: Moving zombie: CrawlerZombieEntity['Crawler Zombie'/31867, l='ServerLevel[world]', x=172.60, y=-50.00, z=-158.22]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31831, l='ServerLevel[world]', x=175.49, y=47.00, z=-139.65]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/28841, l='ServerLevel[world]', x=160.52, y=40.00, z=-123.70]
+[02:52:35] [Server thread/INFO]: Moving zombie: AxeZombieEntity['Axe Zombie'/31150, l='ServerLevel[world]', x=161.45, y=19.00, z=-58.65]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31909, l='ServerLevel[world]', x=185.56, y=39.00, z=5.82]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/28840, l='ServerLevel[world]', x=190.47, y=47.00, z=-203.34]
+[02:52:35] [Server thread/INFO]: Moving zombie: SlowZombieEntity['Slow Zombie'/29291, l='ServerLevel[world]', x=184.81, y=47.00, z=-197.94]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/30085, l='ServerLevel[world]', x=177.16, y=30.00, z=-153.49]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/27742, l='ServerLevel[world]', x=177.92, y=55.00, z=-150.50]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/29648, l='ServerLevel[world]', x=182.42, y=40.00, z=-139.49]
+[02:52:35] [Server thread/INFO]: Moving zombie: LeaperZombieEntity['Leaper Zombie'/31689, l='ServerLevel[world]', x=188.50, y=-1.00, z=-43.50]
+[02:52:35] [Server thread/INFO]: Moving zombie: CrawlerZombieEntity['Crawler Zombie'/31704, l='ServerLevel[world]', x=192.50, y=29.00, z=-181.67]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31629, l='ServerLevel[world]', x=196.76, y=-2.00, z=-95.33]
+[02:52:35] [Server thread/INFO]: Moving zombie: ShriekerZombieEntity['Shrieker Zombie'/31631, l='ServerLevel[world]', x=195.30, y=-2.00, z=-93.50]
+[02:52:35] [Server thread/INFO]: Moving zombie: ShriekerZombieEntity['Shrieker Zombie'/31630, l='ServerLevel[world]', x=200.21, y=0.00, z=-66.77]
+[02:52:35] [Server thread/INFO]: Moving zombie: RunnerZombieEntity['Runner Zombie'/31562, l='ServerLevel[world]', x=206.54, y=-28.00, z=-64.26]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1641['caca'/269, l='ServerLevel[world]', x=212.31, y=59.45, z=-208.31]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31870, l='ServerLevel[world]', x=209.64, y=22.00, z=-87.50]
+[02:52:35] [Server thread/INFO]: Moving zombie: CrossbowZombieEntity['Crossbow Zombie'/31908, l='ServerLevel[world]', x=237.50, y=66.00, z=-185.66]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31146, l='ServerLevel[world]', x=270.50, y=-37.00, z=-218.50]
+[02:52:35] [Server thread/INFO]: Moving zombie: BowZombieEntity['Bow Zombie'/31181, l='ServerLevel[world]', x=259.50, y=26.00, z=-103.50]
+[02:52:35] [Server thread/INFO]: Moving zombie: RunnerZombieEntity['Runner Zombie'/31361, l='ServerLevel[world]', x=272.50, y=-34.00, z=-188.50]
+[02:52:35] [Server thread/INFO]: Moving zombie: RunnerZombieEntity['Runner Zombie'/31534, l='ServerLevel[world]', x=287.50, y=27.00, z=-140.50]
+[02:52:35] [Server thread/INFO]: Moving zombie: RunnerZombieEntity['Runner Zombie'/31535, l='ServerLevel[world]', x=286.50, y=27.00, z=-135.50]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1551['Drowned'/31926, l='ServerLevel[world]', x=407.26, y=42.00, z=-238.26]
+[02:52:35] [Server thread/INFO]: Moving zombie: class_1551['Drowned'/31927, l='ServerLevel[world]', x=404.35, y=40.00, z=-226.46]
+[02:52:36] [Server thread/INFO]: Number of nearby zombies: 37
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1590['Zombified Piglin'/74, l='ServerLevel[world]', x=66.47, y=108.00, z=-154.81]
+[02:52:36] [Server thread/INFO]: Moving zombie: CaveZombieEntity['Cave Zombie'/31721, l='ServerLevel[world]', x=83.88, y=-25.00, z=-72.88]
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31747, l='ServerLevel[world]', x=141.92, y=44.00, z=-158.43]
+[02:52:36] [Server thread/INFO]: Moving zombie: CaveZombieEntity['Cave Zombie'/31163, l='ServerLevel[world]', x=141.65, y=17.00, z=-96.64]
+[02:52:36] [Server thread/INFO]: Moving zombie: SwordZombieEntity['Sword Zombie'/31655, l='ServerLevel[world]', x=152.56, y=28.00, z=-158.49]
+[02:52:36] [Server thread/INFO]: Moving zombie: RunnerZombieEntity['Runner Zombie'/31890, l='ServerLevel[world]', x=159.08, y=27.00, z=-157.28]
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/28841, l='ServerLevel[world]', x=158.12, y=40.00, z=-124.90]
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31877, l='ServerLevel[world]', x=153.70, y=-8.58, z=-118.49]
+[02:52:36] [Server thread/INFO]: Moving zombie: CaveZombieEntity['Cave Zombie'/31724, l='ServerLevel[world]', x=149.36, y=32.77, z=-105.05]
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31889, l='ServerLevel[world]', x=161.33, y=23.89, z=-170.52]
+[02:52:36] [Server thread/INFO]: Moving zombie: RunnerZombieEntity['Runner Zombie'/31813, l='ServerLevel[world]', x=168.03, y=39.00, z=-167.39]
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31654, l='ServerLevel[world]', x=168.12, y=30.00, z=-149.12]
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/30085, l='ServerLevel[world]', x=173.21, y=30.00, z=-152.48]
+[02:52:36] [Server thread/INFO]: Moving zombie: CrawlerZombieEntity['Crawler Zombie'/31867, l='ServerLevel[world]', x=172.56, y=-50.00, z=-157.96]
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31831, l='ServerLevel[world]', x=172.66, y=47.00, z=-139.50]
+[02:52:36] [Server thread/INFO]: Moving zombie: AxeZombieEntity['Axe Zombie'/31150, l='ServerLevel[world]', x=160.59, y=20.00, z=-59.08]
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31909, l='ServerLevel[world]', x=185.88, y=36.00, z=3.59]
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/28840, l='ServerLevel[world]', x=189.27, y=47.00, z=-202.11]
+[02:52:36] [Server thread/INFO]: Moving zombie: SlowZombieEntity['Slow Zombie'/29291, l='ServerLevel[world]', x=183.81, y=47.00, z=-196.55]
+[02:52:36] [Server thread/INFO]: Moving zombie: CrawlerZombieEntity['Crawler Zombie'/31704, l='ServerLevel[world]', x=191.84, y=29.00, z=-178.83]
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31440, l='ServerLevel[world]', x=177.00, y=1.00, z=-161.00]
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/27742, l='ServerLevel[world]', x=177.31, y=50.00, z=-151.61]
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/29648, l='ServerLevel[world]', x=180.32, y=39.00, z=-138.70]
+[02:52:36] [Server thread/INFO]: Moving zombie: LeaperZombieEntity['Leaper Zombie'/31689, l='ServerLevel[world]', x=190.00, y=-3.46, z=-47.98]
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31629, l='ServerLevel[world]', x=196.15, y=-2.00, z=-95.16]
+[02:52:36] [Server thread/INFO]: Moving zombie: ShriekerZombieEntity['Shrieker Zombie'/31631, l='ServerLevel[world]', x=195.30, y=-2.00, z=-93.53]
+[02:52:36] [Server thread/INFO]: Moving zombie: ShriekerZombieEntity['Shrieker Zombie'/31630, l='ServerLevel[world]', x=200.50, y=0.00, z=-69.62]
+[02:52:36] [Server thread/INFO]: Moving zombie: RunnerZombieEntity['Runner Zombie'/31562, l='ServerLevel[world]', x=204.03, y=-28.23, z=-67.73]
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1641['caca'/269, l='ServerLevel[world]', x=212.31, y=59.45, z=-208.31]
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1642['Zombie'/31870, l='ServerLevel[world]', x=209.64, y=22.00, z=-87.50]
+[02:52:36] [Server thread/INFO]: Moving zombie: CrossbowZombieEntity['Crossbow Zombie'/31908, l='ServerLevel[world]', x=234.37, y=66.00, z=-181.51]
+[02:52:36] [Server thread/INFO]: Moving zombie: RunnerZombieEntity['Runner Zombie'/31361, l='ServerLevel[world]', x=270.48, y=-32.83, z=-186.28]
+[02:52:36] [Server thread/INFO]: Moving zombie: BowZombieEntity['Bow Zombie'/31181, l='ServerLevel[world]', x=259.52, y=27.00, z=-101.90]
+[02:52:36] [Server thread/INFO]: Moving zombie: RunnerZombieEntity['Runner Zombie'/31534, l='ServerLevel[world]', x=287.50, y=27.00, z=-140.50]
+[02:52:36] [Server thread/INFO]: Moving zombie: RunnerZombieEntity['Runner Zombie'/31535, l='ServerLevel[world]', x=289.69, y=24.92, z=-132.26]
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1551['Drowned'/31926, l='ServerLevel[world]', x=407.26, y=42.00, z=-238.26]
+[02:52:36] [Server thread/INFO]: Moving zombie: class_1551['Drowned'/31927, l='ServerLevel[world]', x=404.35, y=40.00, z=-226.46]
+[02:56:07] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[02:56:33] [Worker-Main-33/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/34819, l='ServerLevel[world]', x=337.00, y=31.00, z=227.00] as it would cause deadlock
+[02:56:33] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/34821, l='ServerLevel[world]', x=337.00, y=31.00, z=227.00] as it would cause deadlock
+[02:56:36] [Worker-Main-81/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/35039, l='ServerLevel[world]', x=383.00, y=31.00, z=202.00] as it would cause deadlock
+[02:56:36] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/35042, l='ServerLevel[world]', x=383.00, y=31.00, z=202.00] as it would cause deadlock
+[02:56:51] [Worker-Main-81/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/35428, l='ServerLevel[world]', x=533.00, y=31.00, z=108.00] as it would cause deadlock
+[02:56:51] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/35431, l='ServerLevel[world]', x=533.00, y=31.00, z=108.00] as it would cause deadlock
+[02:56:52] [Worker-Main-11/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/35457, l='ServerLevel[world]', x=557.00, y=31.00, z=54.00] as it would cause deadlock
+[02:56:52] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/35459, l='ServerLevel[world]', x=557.00, y=31.00, z=54.00] as it would cause deadlock
+[02:57:25] [Worker-Main-11/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/36210, l='ServerLevel[world]', x=785.00, y=31.00, z=219.00] as it would cause deadlock
+[02:57:25] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/36213, l='ServerLevel[world]', x=785.00, y=31.00, z=219.00] as it would cause deadlock
+[02:57:27] [Worker-Main-33/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/36252, l='ServerLevel[world]', x=802.00, y=31.00, z=220.00] as it would cause deadlock
+[02:57:27] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/36255, l='ServerLevel[world]', x=802.00, y=31.00, z=220.00] as it would cause deadlock
+[02:57:31] [Worker-Main-81/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/36371, l='ServerLevel[world]', x=852.00, y=31.00, z=-94.00] as it would cause deadlock
+[02:57:31] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/36373, l='ServerLevel[world]', x=852.00, y=31.00, z=-94.00] as it would cause deadlock
+[02:57:36] [Worker-Main-81/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/36503, l='ServerLevel[world]', x=923.00, y=31.00, z=-68.00] as it would cause deadlock
+[02:57:36] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/36505, l='ServerLevel[world]', x=923.00, y=31.00, z=-68.00] as it would cause deadlock
+[02:57:38] [Worker-Main-13/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/36564, l='ServerLevel[world]', x=959.00, y=31.00, z=203.00] as it would cause deadlock
+[02:57:38] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/36566, l='ServerLevel[world]', x=959.00, y=31.00, z=203.00] as it would cause deadlock
+[02:58:10] [Worker-Main-11/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/37633, l='ServerLevel[world]', x=868.00, y=31.00, z=370.00] as it would cause deadlock
+[02:58:10] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/37635, l='ServerLevel[world]', x=868.00, y=31.00, z=370.00] as it would cause deadlock
+[02:58:17] [Worker-Main-80/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/37911, l='ServerLevel[world]', x=852.00, y=31.00, z=426.00] as it would cause deadlock
+[02:58:17] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/37914, l='ServerLevel[world]', x=852.00, y=31.00, z=426.00] as it would cause deadlock
+[02:59:14] [Worker-Main-80/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/40239, l='ServerLevel[world]', x=1373.00, y=31.00, z=35.00] as it would cause deadlock
+[02:59:14] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/40243, l='ServerLevel[world]', x=1373.00, y=31.00, z=35.00] as it would cause deadlock
+[02:59:16] [Worker-Main-11/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/40335, l='ServerLevel[world]', x=1442.00, y=31.00, z=17.00] as it would cause deadlock
+[02:59:16] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/40337, l='ServerLevel[world]', x=1442.00, y=31.00, z=17.00] as it would cause deadlock
+[02:59:37] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved too quickly! 6.958001922561834,5.459999829530716,-6.302329576451996
+[02:59:37] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved too quickly! 7.66756446432737,5.879999816417694,-6.93506007560643
+[02:59:37] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved too quickly! 8.390468925627601,6.299999803304672,-7.578645022115126
+[02:59:37] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved too quickly! 9.124314722361078,6.71999979019165,-8.232984218753984
+[02:59:37] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved too quickly! 9.866375983967373,7.1399997770786285,-8.898591986563616
+[02:59:37] [Server thread/WARN]: Chobo (vehicle of Mixelanea) moved too quickly! 10.61276540529252,7.559999763965607,-9.577337324895211
+[02:59:40] [Worker-Main-11/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/41349, l='ServerLevel[world]', x=1311.00, y=31.00, z=-27.00] as it would cause deadlock
+[02:59:40] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/41351, l='ServerLevel[world]', x=1311.00, y=31.00, z=-27.00] as it would cause deadlock
+[02:59:53] [Worker-Main-33/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/41823, l='ServerLevel[world]', x=1661.00, y=31.00, z=-63.00] as it would cause deadlock
+[02:59:53] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/41826, l='ServerLevel[world]', x=1661.00, y=31.00, z=-63.00] as it would cause deadlock
+[03:00:04] [Server thread/INFO]: Mixelanea lost connection: Disconnected
+[03:00:04] [Server thread/INFO]: Mixelanea left the game
+[03:08:51] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[03:14:38] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[03:14:59] [Server thread/INFO]: Darkcalvito has made the advancement [Into Darkness]
+[03:16:04] [Server thread/INFO]: Darkcalvito has made the advancement [Spooky Scary Skeleton]
+[03:18:02] [Server thread/INFO]: [Not Secure] <Darkcalvito> asasd
+[03:18:22] [Server thread/INFO]: Darkcalvito has made the advancement [Source of Evil]
+[03:19:05] [Server thread/INFO]: Darkcalvito has made the advancement [Taking from the Dead]
+[03:19:15] [Server thread/INFO]: Martonimen has made the advancement [Iron, but dark]
+[03:19:24] [Server thread/INFO]: Darkcalvito has made the advancement [Iron, but dark]
