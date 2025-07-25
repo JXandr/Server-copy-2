@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-07-23 03:51:12 +0000",
+      "minecraft:beach": "2025-07-25 06:16:09 +0000",
       "minecraft:snowy_plains": "2025-07-23 03:09:39 +0000",
       "minecraft:stony_shore": "2025-07-23 03:17:44 +0000",
       "minecraft:snowy_taiga": "2025-07-23 04:45:11 +0000",
@@ -1039,6 +1040,7 @@
       "minecraft:cave_spider": "2025-07-24 07:42:15 +0000",
       "minecraft:enderman": "2025-07-23 04:57:00 +0000",
       "minecraft:silverfish": "2025-07-24 20:28:41 +0000",
+      "minecraft:stray": "2025-07-25 06:18:41 +0000",
       "minecraft:zombie": "2025-07-23 03:21:39 +0000"
     },
     "done": false
@@ -5430,6 +5432,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-25 06:22:16 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/compacting_drawers": {
     "criteria": {
       "has_chest": "2025-07-25 05:27:52 +0000"
@@ -5442,15 +5450,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-25 06:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-25 06:16:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2025-07-25 05:32:53 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-25 06:20:18 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/building_blocks/dye_blue_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-07-25 05:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-25 06:16:57 +0000"
     },
     "done": true
   },
@@ -5484,9 +5516,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-25 06:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-25 06:16:57 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/upgrade_template": {
     "criteria": {
       "has_chest": "2025-07-25 05:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-25 06:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-25 06:16:57 +0000"
     },
     "done": true
   },
@@ -5526,6 +5582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-25 06:16:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-07-25 05:32:53 +0000"
@@ -5541,6 +5603,42 @@
   "storagedrawers:recipes/storagedrawers/detached_drawer": {
     "criteria": {
       "has_chest": "2025-07-25 05:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-25 06:16:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-25 06:16:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 06:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-25 06:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-25 06:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-25 06:16:57 +0000"
     },
     "done": true
   },
@@ -5571,6 +5669,18 @@
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2025-07-25 05:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-25 06:16:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-07-25 06:17:19 +0000"
     },
     "done": true
   },
